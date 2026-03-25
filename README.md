@@ -60,16 +60,18 @@
 ### Roster Management — Shift List
 <img width="1596" alt="roster-management-shift-list" src="https://github.com/user-attachments/assets/51f8c146-e969-47ee-8b01-058b3b04050d" />
 
-### Create Shift — 
+### Create Shift — Basic Info
 <img width="1596" alt="create-shift-basic-info" src="https://github.com/user-attachments/assets/3397cf7b-918e-459e-a2bd-2941bfdf93e1" />
 
+### Create Shift — Delivery Zone Map
 <img width="1596" alt="create-shift-delivery-zone-map-1" src="https://github.com/user-attachments/assets/5d3d6d1e-535b-4687-a654-b9ce84896b9c" />
 <img width="1596" alt="create-shift-delivery-zone-map-2" src="https://github.com/user-attachments/assets/47ed7c10-fb9d-49b3-ade0-a5e6b4c7115d" />
 
+### Create Shift — Assignment Rules
 <img width="1596" alt="create-shift-assigment-rules" src="https://github.com/user-attachments/assets/44617846-e011-4a52-afdb-f59c45ef0e59" />
 
-### Shift Detail — Basic Info & Assignment Rules & Delivery Zone Map
-<img width="1596" alt="create-shift-detail" src="https://github.com/user-attachments/assets/494385d7-4ee2-450a-80a0-61f41d2040fb" />
+### Shift Detail — Basic Info & Delivery Zone Map & Assignment Rules 
+<img width="1596" alt="create-shift-detail" src="https://github.com/user-attachments/assets/fa137f86-74c5-4601-8366-383627454f4c" />
 
 ### Driver Leave
 <img width="1596" alt="driver-leave" src="https://github.com/user-attachments/assets/1d0ca595-052e-4243-be8b-a910d54abe49" />
