@@ -50,22 +50,31 @@
 > Roster management system for fleet scheduling — shift creation with multi-step wizard, delivery zone mapping, driver assignment rules, weekly capacity tracking, and driver leave management with calendar view.
 
 ### Roster Overview
-<img width="1596" alt="roster-overview" src="https://github.com/user-attachments/assets/9b602a90-5e26-458d-9a30-aa6493dd7ad8" />
+<img width="1596" alt="roster-overview" src="https://github.com/user-attachments/assets/b1cb133e-f59b-4e6d-b69c-e8429ee0e9b1" />
 
 ### Weekly Record
-<img width="1596" alt="weekly-record-table" src="https://github.com/user-attachments/assets/0b4337ff-44a0-4d4b-90d2-e6d9a5fadc01" />
+<img width="1596" alt="weekly-record-table" src="https://github.com/user-attachments/assets/d9b4eb44-69f9-4dd0-a0c0-5ddb279500f1" />
+
+<img width="1596" alt="weekly-record-chart" src="https://github.com/user-attachments/assets/4dfdc8b1-c801-4788-9d83-0395c3000f11" />
 
 ### Roster Management — Shift List
-<img width="1596" alt="roster-management-shift-list" src="https://github.com/user-attachments/assets/4eccbac1-5341-4f1e-8046-0643719f51aa" />
+<img width="1596" alt="roster-management-shift-list" src="https://github.com/user-attachments/assets/51f8c146-e969-47ee-8b01-058b3b04050d" />
 
-### Create Shift — Basic Info
-<img width="1596" alt="create-shift-basic-info" src="https://github.com/user-attachments/assets/51f8c146-e969-47ee-8b01-058b3b04050d" />
+### Create Shift — 
+<img width="1596" alt="create-shift-basic-info" src="https://github.com/user-attachments/assets/3397cf7b-918e-459e-a2bd-2941bfdf93e1" />
 
-### Shift Detail — Assignment Rules & Delivery Zone Map
-<img width="1596" alt="shift-detail" src="https://github.com/user-attachments/assets/09fbbbfc-b2f5-44a7-897c-9a5d12a81ae9" />
+<img width="1596" alt="create-shift-delivery-zone-map-1" src="https://github.com/user-attachments/assets/5d3d6d1e-535b-4687-a654-b9ce84896b9c" />
+<img width="1596" alt="create-shift-delivery-zone-map-2" src="https://github.com/user-attachments/assets/47ed7c10-fb9d-49b3-ade0-a5e6b4c7115d" />
 
-### Driver Leave — Calendar View
-<img width="1596" alt="driver-leave-calendar" src="https://github.com/user-attachments/assets/bc8b0696-abae-4cf8-a3e6-9b539ef47938" />
+<img width="1596" alt="create-shift-assigment-rules" src="https://github.com/user-attachments/assets/44617846-e011-4a52-afdb-f59c45ef0e59" />
+
+### Shift Detail — Basic Info & Assignment Rules & Delivery Zone Map
+<img width="1596" alt="create-shift-detail" src="https://github.com/user-attachments/assets/494385d7-4ee2-450a-80a0-61f41d2040fb" />
+
+### Driver Leave
+<img width="1596" alt="driver-leave" src="https://github.com/user-attachments/assets/1d0ca595-052e-4243-be8b-a910d54abe49" />
+<img width="1596" alt="create-driver-leave" src="https://github.com/user-attachments/assets/c8a07107-2feb-4f0c-b8dd-7ef9cd678073" />
+<img width="1596" alt="driver-leave-detail" src="https://github.com/user-attachments/assets/9776910b-e8d1-4c23-ae1c-5bcf60294992" />
 
 ---
 
