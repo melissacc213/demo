@@ -43,19 +43,40 @@
 <img width="1596" height="703" alt="order-management-list" src="https://github.com/user-attachments/assets/e6379f6c-1067-4775-b9a0-4188f7cb044b" />
 <img width="1596" height="703" alt="order-management-details" src="https://github.com/user-attachments/assets/d083c17b-7c0c-4a4f-b797-52c8462f395b" />
 
+---
+
+## TMS - Schedule (Fleet Roster & Driver Leave)
+
+> Roster management system for fleet scheduling — shift creation with multi-step wizard, delivery zone mapping, driver assignment rules, weekly capacity tracking, and driver leave management with calendar view.
+
+### Roster Overview
+<img width="1596" alt="roster-overview" src="https://github.com/user-attachments/assets/9b602a90-5e26-458d-9a30-aa6493dd7ad8" />
+
+### Weekly Record
+<img width="1596" alt="weekly-record-table" src="https://github.com/user-attachments/assets/0b4337ff-44a0-4d4b-90d2-e6d9a5fadc01" />
+
+### Roster Management — Shift List
+<img width="1596" alt="roster-management-shift-list" src="https://github.com/user-attachments/assets/4eccbac1-5341-4f1e-8046-0643719f51aa" />
+
+### Create Shift — Basic Info
+<img width="1596" alt="create-shift-basic-info" src="https://github.com/user-attachments/assets/51f8c146-e969-47ee-8b01-058b3b04050d" />
+
+### Shift Detail — Assignment Rules & Delivery Zone Map
+<img width="1596" alt="shift-detail" src="https://github.com/user-attachments/assets/09fbbbfc-b2f5-44a7-897c-9a5d12a81ae9" />
+
+### Driver Leave — Calendar View
+<img width="1596" alt="driver-leave-calendar" src="https://github.com/user-attachments/assets/bc8b0696-abae-4cf8-a3e6-9b539ef47938" />
+
+---
 
 ## ERP
-<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 00 41 PM" src="https://github.com/user-attachments/assets/fb83d770-89a0-4de7-8859-c1c5bee6ce05" />
-<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 00 50 PM" src="https://github.com/user-attachments/assets/9a802f32-bc4c-4eb2-9621-dbeb8d3af94c" />
-<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 11 PM" src="https://github.com/user-attachments/assets/4f1626ec-f559-46fa-9bca-ebf90f0db0f6" />
-<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 16 PM" src="https://github.com/user-attachments/assets/fde930a0-54ce-446b-bb65-057cb8581996" />
-<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 23 PM" src="https://github.com/user-attachments/assets/87841d43-3331-4bd3-b563-7b3495ee896e" />
-<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 37 PM" src="https://github.com/user-attachments/assets/550a62ae-66c9-4ebd-bb0c-83f34b3478aa" />
-<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 40 PM" src="https://github.com/user-attachments/assets/62efd00f-0e0b-4e10-a704-7cee5a4ef030" />
-<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 46 PM" src="https://github.com/user-attachments/assets/7ead4770-3a42-4cfd-ad99-d0b90f085088" />
-<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 50 PM" src="https://github.com/user-attachments/assets/69f169ee-60a4-4332-970e-5c57fb872412" />
-<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 02 12 PM" src="https://github.com/user-attachments/assets/9e239941-5c45-408e-86d3-e2e029bb7b8a" />
-
-
-
-
+<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 00 41 PM" src="https://github.com/user-attachments/assets/fb83d770-89a0-4de7-8859-c1c5bee6ce05" />
+<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 00 50 PM" src="https://github.com/user-attachments/assets/9a802f32-bc4c-4eb2-9621-dbeb8d3af94c" />
+<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 11 PM" src="https://github.com/user-attachments/assets/4f1626ec-f559-46fa-9bca-ebf90f0db0f6" />
+<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 16 PM" src="https://github.com/user-attachments/assets/fde930a0-54ce-446b-bb65-057cb8581996" />
+<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 23 PM" src="https://github.com/user-attachments/assets/87841d43-3331-4bd3-b563-7b3495ee896e" />
+<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 37 PM" src="https://github.com/user-attachments/assets/550a62ae-66c9-4ebd-bb0c-83f34b3478aa" />
+<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 40 PM" src="https://github.com/user-attachments/assets/62efd00f-0e0b-4e10-a704-7cee5a4ef030" />
+<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 46 PM" src="https://github.com/user-attachments/assets/7ead4770-3a42-4cfd-ad99-d0b90f085088" />
+<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 01 50 PM" src="https://github.com/user-attachments/assets/69f169ee-60a4-4332-970e-5c57fb872412" />
+<img width="1596" height="813" alt="Screenshot 2026-01-05 at 12 02 12 PM" src="https://github.com/user-attachments/assets/9e239941-5c45-408e-86d3-e2e029bb7b8a" />
